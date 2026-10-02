@@ -31,6 +31,6 @@ s1.name="Riya";
 s1.age=18;
 s1.contact=912367;
 s1.rollno=14;
-s1.branch="btech AIDS;
+s1.branch="btech AIDS";
 return 0;
 }
